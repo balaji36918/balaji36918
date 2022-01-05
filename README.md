@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Balaji Venkatasubramanian
 - 👀 I’m interested in Computer Vision, Deep Learning and Reinforcement Learning
 - 🌱 I’m currently improving my skills on CARLA.
-- 💞️ I’m looking to collaborate on the above topics of interest.
+- 💞️ I’m looking to collaborate on these above topics of interest.
 - 📫 Please contact me through the following email: venkatas@rhrk.uni-kl.de
 
 <!---
